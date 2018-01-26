@@ -1,1 +1,1 @@
-*{margin:0 auto}body{font-family:'Open Sans Condensed',sans-serif;display:flex;flex:1 100%}body .menu{flex:3 0}
+*{margin:0 auto}body{font-family:'Open Sans Condensed',sans-serif;display:inline-flex}body .menu{flex:1 0}body contenu{order:2}
